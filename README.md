@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A passionate Fullstack developer from Germany</h3>
 
-- 🔭 I’m currently working on [SycroV](https://discord.gg/EaDW4h4CtX), [MineFuture](https://github.com/BuddiesTV/MineFuture)
+- 🔭 I’m currently working on [SycroV](https://discord.gg/EaDW4h4CtX), [lsAdmin]https://github.com/BuddiesTV/lsAdmin
 - 📫 How to reach me **BuddiesTV@outlook.de**
 
 ## Programming Languages
